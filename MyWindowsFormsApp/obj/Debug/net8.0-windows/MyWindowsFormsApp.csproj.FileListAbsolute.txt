@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\bin\Debug\net8.0-windows\MyWindowsFormsApp.exe
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\bin\Debug\net8.0-windows\MyWindowsFormsApp.deps.json
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\bin\Debug\net8.0-windows\MyWindowsFormsApp.runtimeconfig.json
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\bin\Debug\net8.0-windows\MyWindowsFormsApp.dll
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\bin\Debug\net8.0-windows\MyWindowsFormsApp.pdb
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.AssemblyInfo.cs
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.sourcelink.json
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.dll
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\refint\MyWindowsFormsApp.dll
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.pdb
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\MyWindowsFormsApp.genruntimeconfig.cache
+C:\Users\acer\Desktop\search automate\Search-Automation-.NET-and-C-\MyWindowsFormsApp\obj\Debug\net8.0-windows\ref\MyWindowsFormsApp.dll
